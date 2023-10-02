@@ -6,3 +6,9 @@ git clone https://github.com/adam-messaoudi/git-begins.git
 git add .
 git commit -m "Ajout des commandes git dans le fichier commands-git"
 git push 
+
+
+#Commande de pull
+git
+pull
+

@@ -1,14 +1,20 @@
-# Commande pour cloner un référenciel
-git clone https://github.com/adam-messaoudi/git-begins.git
+#Commande pour cloner un repository
+git clone "https://github.com/adam-messaoudi/git-begins.git"
 
 
-# Commande de push
+#Commande pour push
 git add .
 git commit -m "Ajout des commandes git dans le fichier commands-git"
 git push 
 
 
-#Commande de pull
-git
-pull
+#Commande pour pull
+git pull
+
+
+#Commande pour créer une branche et basculer 
+git branch "branch_name"
+git checkout "branch_name"
+ou
+git checkout -b
 
